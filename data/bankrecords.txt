@@ -1,0 +1,72 @@
+Project: MP2
+Course: ITM-411
+Author: Brian T. Bailey
+----------------------------------------------------------------------
+
+Application Run-time Status
+---------------------------
+Reading Records From Data File...
+Creating Map Object of Region-Location Lists...
+Encapsulating Map and Date into Persistent Object...
+Serializing Persistent Object...
+Application Sleeping for 5 Secs...
+Deserializing Persistent Object...
+Extracting Bank Records and Date from Persistent Object...
+Start Data Analytics...
+
+
+Object Serialization and Deserialization Times
+----------------------------------------------------------------------
+The object was serialized: Sun Feb 26 19:39:14 CST 2012
+The object was deserialized: Sun Feb 26 19:39:19 CST 2012
+----------------------------------------------------------------------
+The time difference between 
+serialization and deserialization: 5.162 secs (5162 milliseconds)
+----------------------------------------------------------------------
+
+
+----------------------------
+Average Income Per Location:
+----------------------------
+Town:        $ 26,786.35
+Rural:       $ 30,027.61
+Suburban:    $ 28,656.36
+Inner City:  $ 26,844.00
+----------------------------
+
+
+----------------------------
+Min and Max Age By Location:
+----------------------------
+              Min   Max
+      Town:    19    67
+     Rural:    18    67
+  Suburban:    18    67
+Inner City:    18    67
+----------------------------
+
+
+----------------------------
+Number of Females with a 
+Mortgage & Savings Account 
+By Location:
+----------------------------
+      Town:    25
+     Rural:     9
+  Suburban:     4
+Inner City:    30
+----------------------------
+
+
+----------------------------
+Number of Males with a 
+Car & Children By Location:
+----------------------------
+      Town:    27
+     Rural:    17
+  Suburban:     8
+Inner City:    37
+----------------------------
+
+
+The Application Has Finished Running
